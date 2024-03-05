@@ -1,4 +1,4 @@
-class Lee {
+class Jeon {
  
     public int solution(String s) {
            String[] number={"zero","one","two","three","four","five","six","seven","eight","nine"};
