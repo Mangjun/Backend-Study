@@ -19,7 +19,7 @@
 <br>
 
 * 김명준
-    * [Github]()
+    * [Github](https://github.com/Mangjun)
     * [Programmers]()
 
 * 이동현
