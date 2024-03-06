@@ -31,7 +31,7 @@
     * [Programmers]()
 
 * 장현서
-    * [Github]()
+    * [Github](https://github.com/hhhnseo)
     * [Programmers]()
 
 <br>
