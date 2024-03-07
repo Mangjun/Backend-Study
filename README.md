@@ -27,7 +27,7 @@
     * [Programmers]()
 
 * 전경섭
-    * [Github]()
+    * [Github](https://github.com/JKS8520)
     * [Programmers]()
 
 * 장현서
