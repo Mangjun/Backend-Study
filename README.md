@@ -43,14 +43,14 @@
 ## Study Content
 | Date | Content |
 | --- | --- |
-| 2024.03.04 |  |
+| 2024.03.05 | [2024-03 1주차 회고록](https://github.com/Mangjun/Backend-Study/blob/main/StudyContent/24%EB%85%84_03%EC%9B%94_1%EC%A3%BC%EC%B0%A8_%ED%9A%8C%EA%B3%A0%EB%A1%9D.pdf) |
 
 <br>
 
 ## Programmers Code
-| Date | 김명준 | 이동현 | 전경섭 | 장현서 |
-| --- | --- | --- | --- | --- |
-| 2024.03.04 |  |  |  |  |
+| Date | Content |
+| --- | --- |
+| 2024.03.05 | [숫자 문자열과 영단어](https://github.com/Mangjun/Backend-Study/tree/main/ProgrammersCode/2024-03-05) |
 
 <br>
 
