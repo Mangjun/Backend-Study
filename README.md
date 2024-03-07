@@ -23,7 +23,7 @@
     * [Programmers]()
 
 * 이동현
-    * [Github]()
+    * [Github](https://github.com/LEEDDONG)
     * [Programmers]()
 
 * 전경섭
