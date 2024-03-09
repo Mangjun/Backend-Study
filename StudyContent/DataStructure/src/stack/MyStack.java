@@ -26,7 +26,13 @@ public class MyStack {
 
     /* 2024-03- Lee */
     public int pop() {
-        return 0;
+    if(size=0) {
+    	System.out.println("스택이 비었습니다.");
+    	return 0;
+    }
+    return stack[size--];
+    
+        
     }
 
     /* 2024-03- Jeon */
