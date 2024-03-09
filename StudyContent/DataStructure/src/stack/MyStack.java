@@ -36,8 +36,16 @@ public class MyStack {
     }
 
     /* 2024-03- Jeon */
+    //최근에 추가 된 데이터를 조회 만약, 스택이 비어있을 경우 "스택이 비어있습니다." 출력
+
     public int peek() {
-        return 0;
+        if(size == 0){
+            System.out.println("스택이 비어있습니다!");
+
+            return -1;
+        }
+        
+        return stack[size];
     }
 
     public void printStack() {
