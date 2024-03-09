@@ -12,9 +12,16 @@ public class MyStack {
         stack = new int[size];
     }
 
-    /* 2024-03- Jang */
+    /* 2024-03-08 Jang */
     public void push(int data) {
         /* 저장 공간이 부족할 경우 2배로 늘릴 것! */
+        if (size == stack.length) {
+            int newSize = stack.length * 2;
+            int[] newStack = new int[newSize];
+            System.arraycopy(stack,0, newStack, 0, stack.length);
+            stack = newStack;
+        }
+        stack[size++] = data;
     }
 
     /* 2024-03- Lee */
