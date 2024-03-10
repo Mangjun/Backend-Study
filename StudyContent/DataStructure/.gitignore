@@ -25,5 +25,8 @@ bin/
 ### VS Code ###
 .vscode/
 
+### Win OS ###
+DataStructure.iml
+
 ### Mac OS ###
 .DS_Store
